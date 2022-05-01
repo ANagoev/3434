@@ -60,7 +60,7 @@
     <hr>
 
     <h2>Youtube Курсы</h2>
-    <a href="youtube.html">Посмотреть список</a>
+    <a href="youtube[1].html">Посмотреть список</a>
 
     <hr>
     <h2>Связаться со мной</h2>
