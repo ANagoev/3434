@@ -8,7 +8,7 @@
     <table cellspacing="15">
       <tr>
         <td>
-          <img src="avatar.jpeg" width="200" alt="тут моя фотка" />
+          <img src="avatar[1].jpeg" width="200" alt="тут моя фотка" />
         </td>
         <td>
           <h1>Владилен Минин</h1>
